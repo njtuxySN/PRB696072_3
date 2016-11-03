@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="xy_new_col" label="Xy new col" language="en" table="x_my_new_hardware_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>xy_new_col</element>
+            <help/>
+            <hint/>
+            <label>Xy new col</label>
+            <language>en</language>
+            <name>x_my_new_hardware_table</name>
+            <plural>Xy new cols</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-03 22:16:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4df819f6533222006baaa041eec58705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Xy new col</sys_name>
+            <sys_package display_value="my_new_hardware" source="x_my_new_hardware">08c459b2533222006baaa041eec587fd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="my_new_hardware">08c459b2533222006baaa041eec587fd</sys_scope>
+            <sys_update_name>sys_documentation_x_my_new_hardware_table_xy_new_col_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-03 22:16:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

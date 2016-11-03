@@ -17,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Hardware" name="cmdb_ci_hardware">4bacb3484832220092c039e82512976e</super_class>
+        <super_class display_value="Hardware" name="cmdb_ci_hardware">ede9a16a1932220092c039a7e0e0688b</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-11-03 21:57:48</sys_created_on>
