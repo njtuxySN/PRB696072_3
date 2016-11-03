@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_hardware" label="my_new_hardware Table" max_length="40" name="x_my_new_hardware_table" type="collection"/>
+</database>

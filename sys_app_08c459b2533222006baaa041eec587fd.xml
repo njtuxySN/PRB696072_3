@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="my_new_hardware">80c499b2533222006baaa041eec58747</menu>
+        <name>my_new_hardware</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_my_new_hardware</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_my_new_hardware</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-03 21:57:47</sys_created_on>
+        <sys_id>08c459b2533222006baaa041eec587fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-03 21:57:47</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_my_new_hardware.user" name="x_my_new_hardware.user">80c499b2533222006baaa041eec5874b</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
